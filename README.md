@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+link del proyecto en Netlify: https://tiny-sprite-477b6a.netlify.app 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
